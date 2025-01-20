@@ -1,0 +1,32 @@
+.categorias {
+    background-color: #191919;
+    gap: 90px;
+    padding: 40px;
+}
+
+.titulos h3 {
+    font-family: "DM Sans", serif;
+    color: white;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.titulos {
+    border-radius: 15px;
+    width: 432px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+
+.videos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+
+    
+}

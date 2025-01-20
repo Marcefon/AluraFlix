@@ -1,0 +1,54 @@
+.editar  {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: "DM Sans", serif;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+
+.borrar  {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: "DM Sans", serif;
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.Botones {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    height: 60px;
+}
+
+.Cards {
+    border: 5px solid;
+    border-radius: 15px;
+    width: 430px;
+    height: 320px;
+    overflow: hidden;
+}
+
+.Imagen {
+    width: 100%;
+    height: 260px;
+    border-bottom: 5px solid;
+}
+
+.imagenVideo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}

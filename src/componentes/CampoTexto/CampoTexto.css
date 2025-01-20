@@ -1,0 +1,36 @@
+.camposForm {
+    font-family: "DM Sans", serif;
+    color: white;
+    width: 100%;
+
+}
+
+.campo-texto {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.label {
+    font-size: 20px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 10px; 
+    color: white;  
+    text-align: left;
+}
+
+.campo-texto input {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 3px solid #2271D1;
+    border-radius: 10px;
+    padding: 16px 10px;
+    font-family: "DM Sans", serif;
+    color: #A5A5A5;
+    font-size: 20px;
+    font-weight: 500;
+    outline-color: #6BD1FF;
+
+}

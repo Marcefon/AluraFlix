@@ -1,0 +1,25 @@
+.boton {
+    background-color: transparent;
+    border-radius: 10px;
+    border: 2px solid #F5F5F5;
+    width: 180px;
+    height: 54px;
+    font-family: "DM Sans", serif;
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+}
+
+.boton:active {
+    background-color: #000000;
+    border: 2px solid #2271D1;
+    color: #2271D1;
+    box-shadow: inset 0px 0px 20px #2271d1;
+}
+
+.botones {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}

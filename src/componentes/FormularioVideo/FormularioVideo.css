@@ -1,0 +1,35 @@
+.nuevoVideo {
+    background-color: #191919;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nuevoVideo h2 {
+    font-size: 40px;
+    color: white;
+    margin: 12px;
+}
+
+.nuevoVideo p {
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.formulario-video h3 {
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;
+
+}
+
+.formulario-video {
+    width: 80%;
+}
+
